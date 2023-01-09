@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring about tech, start-ups and digital world.
-- 🎓 &nbsp; Studying Front-End Developer at University TecnoCampus de Mataró. (Former Barcelona Activa student).
+- 🎓 &nbsp; Studying Front-End Developer at TecnoCampus University (Mataró). (Former Barcelona Activa student).
 - 💼 &nbsp; Currently Working on Non-Profit Projects.
 - 🌱 &nbsp; Learning more about React.js and Front-End tools.
 - ✍️ &nbsp; Investing a few time in my foodblog https://llenandoelbuchebcn.com
