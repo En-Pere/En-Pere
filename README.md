@@ -51,7 +51,7 @@
 
 <p align="center">
 <a href="https://https://enpereruba.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.enpereruba.com/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/en-pere/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/enpereruba/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:info@enpereruba.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/en-pere/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pere%20Ruiz-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/enpereruba/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-enpereruba-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:info@enpereruba.com"><img alt="Email" src="https://img.shields.io/badge/Email-info@enpereruba.com-blue?style=flat-square&logo=gmail"></a>
 </p>
